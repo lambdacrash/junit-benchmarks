@@ -53,9 +53,9 @@
   </mailingLists>
 
   <scm>
-    <url>git@github.com:carrotsearch/junit-benchmarks.git</url>
-    <connection>scm:git:git@github.com:carrotsearch/junit-benchmarks.git</connection>
-    <developerConnection>scm:git:git@github.com:carrotsearch/junit-benchmarks.git</developerConnection>
+    <url>git@github.com:lambdacrash/junit-benchmarks.git</url>
+    <connection>scm:git:git@github.com:lambdacrash/junit-benchmarks.git</connection>
+    <developerConnection>scm:git:git@github.com:lambdacrash/junit-benchmarks.git</developerConnection>
   </scm>
 
   <developers>
